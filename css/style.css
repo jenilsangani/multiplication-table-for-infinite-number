@@ -1,0 +1,28 @@
+#table{
+    border:  1px solid black;
+    display: inline-block;
+    padding: 16px 16px;
+    background-color: #CDD0CB;
+    color: black;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family:monospace;
+    box-shadow: 3px 3px 13px grey, -3px -3px 10px grey;
+}
+.myname{
+    font-size: 12px;
+    text-align:center;
+
+}
+/* #myname{
+    font-family: cursive;
+} */
+
+
+
+
+
+
+
+
